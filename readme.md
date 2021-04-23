@@ -23,14 +23,15 @@ The solve of this assignment was done by initializing a server in a javascript f
 
 
 ## Deployed Link
+- [https://notetakerhw-tmpeeler.herokuapp.com/]
 
 
 ## Screenshot
 ![screenshot](public\assets\noteTakerHWScreenshot.png);
 
 ## Authors
-
 * **Thomas Peeler** 
 
-- [https://github.com/TMPeeler/Team-Profile-GeneratorHW]
-## Video of website functionality included in the repository
+
+## Github Repository
+- [https://github.com/TMPeeler/NoteTakerHW]
